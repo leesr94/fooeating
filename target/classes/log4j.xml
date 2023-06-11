@@ -14,7 +14,7 @@
 	<logger name="com.fooeating.web">
 		<level value="debug" />
 	</logger>
-	<logger name="com.fooeating.web">
+	<logger name="com.fooeating.persistence">
 		<level value="debug" />
 	</logger>
 	

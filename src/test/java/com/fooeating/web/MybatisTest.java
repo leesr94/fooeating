@@ -37,5 +37,6 @@ public class MybatisTest {
 		//	=> 해당 작업은 DAOImpl에서 하고 있기 때문에 DAO를 생성하여 불러오기
 		String time = mdao.getTime();
 		logger.debug("DB 시간정보 : " + time);
+		System.out.println("DB 시간정보 : " + time);
 	}
 }
